@@ -5,7 +5,7 @@ in Java, created on NetBeans IDE version 5.6 and includes usage of JavaFX, Swing
 
 ------------------------------------------------------------------------------------------------------------------------
 
-## Authors
+## Team Members
 
 1. Shreya Arora
 2. Prakhar Bansal
